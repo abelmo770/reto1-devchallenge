@@ -1,0 +1,36 @@
+@import url('https://fonts.google.com/specimen/Sora?query=sora');
+
+body { 
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    background: #ffffff;
+    color: #000000;
+    font-family: 'Sora';
+}
+
+.card{
+    width: 368px;
+    margin-top: 164px;
+    overflow: hidden;
+    position: relative;
+    background-color: antiquewhite;
+    border-radius: 1.5rem;
+   
+}
+
+.card-image{
+    width:100%;
+    height: auto;
+    position: relative;
+    padding: 16px;
+   
+}
+
+img{
+    width: 336px;
+    height:152px;
+    border-radius: 1.5rem;
+   
+}
+
